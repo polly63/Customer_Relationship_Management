@@ -1,2 +1,2 @@
-# Customer_Relationship_Management
+# Customer Relationship Management
 CRM strategy in the Canadian Banking Industry
